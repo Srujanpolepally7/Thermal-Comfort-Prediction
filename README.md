@@ -9,6 +9,8 @@ This project is a data-driven  approach  to  predict  individual thermal  comfor
 
 Data Preprocessing ASHRAE  is  one  of  the  main  organizations  that  set thermal comfort standards and guidelines. For this project, we have  used  the  database  of  thermal  comfort  experiments performed,  which is  publicly available  as  part  of  the  ASHRAE  RP-884  project.
 
+## Dataset Source: https://datadryad.org/stash/dataset/doi:10.6078/D1F671
+
 ## feature set:
 Feature Set and Output The following factors were included in the feature set: 
 Fanger’s  parameters:  The  six  Fanger’s  parameters are well established as definite influencers of thermal comfort:  air  temperature  (Ta),  mean  radiant temperature  (MRT),  relative  humidity  (RH),  air speed  (Va),  clothing  rate  (Clo),  and  metabolic  rate (M). 
